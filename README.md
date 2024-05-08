@@ -9,7 +9,6 @@ Comes with a handy marking system to easily add objects to the list of objects w
 4. You can start adding any chairs and tables to the list of objects that you want to toggle collision on and off.
 5. You can also add the "Seat Marker" script to any object that you want to be a seat or a table. You can then press "Find all marked objects" to add them to the list of objects!
 
-
 ## Features
 * **Seat and Table Control:** using included prefabs or by scripting
 * **Seat Marking:** You can use the included "Seat Marker" tool to tag your seats and tables, **then click a button to add them all at once.**
