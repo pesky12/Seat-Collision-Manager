@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is not a complete product ready for use. It is made public solely as a learning resource during development with expected future stable release if my motivation persists :).
+
 ## Seat Collision Manager: Simplified Seat and Table Collision Toggling
 Easier way to make seat and table collision toggles for your world!  
 Comes with a handy marking system to easily add objects to the list of objects with a press of a button! No more dragging and dropping objects into the list!
