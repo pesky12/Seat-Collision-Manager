@@ -1,7 +1,7 @@
 {
   "name": "vpm.pesky.box.seatcollisionmanager",
   "description": "Easier way to make seat and table collision toggles for your world!",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "displayName": "Seat Collision Manager",
   "hideInEditor": false,
   "gitDependencies": {},
