@@ -1,5 +1,5 @@
 {
-    "name": "PeskyBox.SeatTogglingManager",
+    "name": "pesky.box.seatcollisionmanager",
     "rootNamespace": "",
     "references": [
         "UdonSharp.Runtime",
